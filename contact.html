@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serenity Cove - Home</title>
+
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Asul:wght@400;700&family=Averia+Serif+Libre&display=swap"
+        rel="stylesheet">
+
+
+
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+    <header>
+        <a href="index.html" aria-label="Home">
+            <h1><span class="first-word">Serenity</span> <span class="second-word">Cove</span></h1>
+        </a>
+
+        <nav>
+            <ul>
+                <li><a href="index.html" aria-label="Home">Home</a></li>
+                <li><a href="accommodations.html" aria-label="Accommodations">Accommodations</a></li>
+                <li><a href="contact.html" aria-label="Contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="contact">
+
+            <h2>Contact Us</h2>
+
+            <p>Please reach out to us with any questions or concerns. We are happy to help you plan your dream vacation
+                with us!<br>
+                Required fields marked with a * </p>
+
+        </section>
+
+        <div>
+            <img src="images/swiss-sunset.jpg" alt="Swiss Valley">
+        </div>
+
+        <form action="#" method="POST">
+
+            <div>
+                <label for="your-name">Name:*</label>
+                <input type="text" id="your-name" name="your-name" required><br>
+
+                <label for="your-email">Email:*</label>
+                <input type="email" id="your-email" name="your-email" required><br>
+
+                <label for="your-phone">Phone:*</label>
+                <input type="tel" id="your-phone" name="your-phone" required>
+
+            </div>
+
+            <div>
+                <h3>Preferred Method: *</h3>
+
+                <fieldset class="radio-group">
+                    <input type="radio" id="email-radio" name="preferred-contact" value="email" checked required>
+                    <label for="email-radio">Email</label>
+                    <input type="radio" id="phone-radio" name="preferred-contact" value="phone">
+                    <label for="phone-radio">Phone</label><br>
+                </fieldset>
+
+
+                <label for="message">Message:</label>
+                <textarea name="message" id="message" cols="30" rows="4"></textarea>
+
+                <input type="submit" value="Submit">
+            </div>
+
+        </form>
+
+    </main>
+
+    <footer>
+
+        <img src="images/logo-transparent.png" alt="Serenity Cove Logo" width="120" height="120">
+
+        <div>
+            <ul>
+                <li><a href="#" aria-label="Facebook">
+                        <img src="images/facebook.png" alt="Facebook">
+                    </a></li>
+
+                <li><a href="#" aria-label="Instagram">
+                        <img src="images/instagram.png" alt="Instagram">
+                    </a></li>
+
+                <li><a href="#" aria-label="Twitter">
+                        <img src="images/twitter.png" alt="Twitter">
+                    </a></li>
+            </ul>
+
+        </div>
+
+        <div>
+            <p>&copy; 2023 Serenity Cove</p>
+            <p>This site is for educational purposes only.</p>
+        </div>
+
+    </footer>
+
+</body>
+
+</html>

@@ -1,0 +1,1713 @@
+/* OBFUSCATED BY CSSOBFUSCATOR.COM at 2023/12/01 22:27:14 */
+#chalet h3 {
+    font-size: 18px;
+}
+
+body {
+    background-color: var(--color-background);
+}
+
+#chalet h3 {
+    color: var(--color-accent-two);
+}
+
+header h1,
+#chalet h3 {
+    text-align: center;
+}
+
+body {
+    font-family: var(--font-stack);
+}
+
+header h1,
+#chalet h3 {
+    justify-content: center;
+}
+
+#chalet {
+    display: grid;
+}
+
+#chalet h3 {
+    margin-left: auto;
+}
+
+body {
+    margin-left: 0;
+}
+
+header h1 {
+    order: 1;
+}
+
+#chalet h3 {
+    margin-bottom: .208333333in;
+}
+
+header h1 .first-word {
+    color: var(--color-secondary);
+}
+
+header h1 {
+    font-size: 3rem;
+}
+
+header h1 {
+    line-height: 1.2;
+}
+
+header h1 .first-word {
+    text-shadow: 1.5pt 2px 3pt var(--color-accent-two);
+}
+
+#chalet h3 {
+    margin-right: auto;
+}
+
+#chalet {
+    grid-template-columns: 1fr 1fr;
+}
+
+#chalet h3 {
+    margin-top: .208333333in;
+}
+
+body {
+    margin-bottom: 0;
+}
+
+header h1 .first-word {
+    font-style: normal;
+}
+
+#chalet h3 {
+    padding-bottom: 7.5pt;
+}
+
+header nav ul,
+header,
+header nav {
+    display: flex;
+}
+
+#chalet {
+    gap: 3rem;
+}
+
+#chalet h3 {
+    padding-top: 7.5pt;
+}
+
+:root {
+    --color-primary: #957e9a;
+}
+
+header nav ul {
+    gap: 2rem;
+}
+
+body {
+    margin-right: 0;
+}
+
+#chalet h3 {
+    background: var(--color-accent-one);
+}
+
+#chalet h3 {
+    border-left-width: 1.5pt;
+}
+
+header h1 .first-word {
+    font-variant: normal;
+}
+
+body {
+    margin-top: 0;
+}
+
+header h1,
+header nav,
+header {
+    flex-wrap: nowrap;
+}
+
+#chalet h3 {
+    border-bottom-width: 1.5pt;
+}
+
+#chalet h3 {
+    border-right-width: 1.5pt;
+}
+
+header h1,
+header nav ul {
+    white-space: nowrap;
+}
+
+#chalet h3 {
+    border-top-width: 1.5pt;
+}
+
+header h1 .first-word {
+    font-weight: 700;
+}
+
+header h1 .first-word {
+    font-stretch: normal;
+}
+
+header nav ul {
+    font-size: 1.5rem;
+}
+
+header h1 {
+    text-decoration: none;
+}
+
+:root {
+    --color-secondary: #ffb870;
+}
+
+:root {
+    --color-background: #485673;
+}
+
+#chalet h3 {
+    border-left-style: solid;
+}
+
+header h1 .first-word {
+    font-size: 3rem;
+}
+
+header nav li:hover {
+    transform: scale(1.2);
+}
+
+header h1 .first-word {
+    line-height: normal;
+}
+
+body {
+    padding-left: 0;
+}
+
+#chalet {
+    width: 547.5pt;
+}
+
+#chalet h3 {
+    border-bottom-style: solid;
+}
+
+header nav {
+    order: 2;
+}
+
+#chalet h3 {
+    border-right-style: solid;
+}
+
+#chalet h3 {
+    border-top-style: solid;
+}
+
+body {
+    padding-bottom: 0;
+}
+
+#chalet h3 {
+    border-left-color: var(--color-accent-one);
+}
+
+header nav {
+    flex-direction: row;
+}
+
+header h1 .first-word {
+    font-size-adjust: none;
+}
+
+body {
+    padding-right: 0;
+}
+
+header nav ul {
+    font-weight: bold;
+}
+
+#chalet h3 {
+    border-bottom-color: var(--color-accent-one);
+}
+
+body {
+    padding-top: 0;
+}
+
+#chalet h3 {
+    border-right-color: var(--color-accent-one);
+}
+
+header nav ul {
+    text-align: center;
+}
+
+header nav,
+#chalet {
+    justify-content: space-evenly;
+}
+
+#chalet h3 {
+    border-top-color: var(--color-accent-one);
+}
+
+#chalet h3 {
+    border-image: none;
+}
+
+#chalet h3 {
+    border-radius: 5px;
+}
+
+header {
+    flex-direction: column;
+}
+
+:root {
+    --color-accent-one: #d17d85;
+}
+
+header,
+header nav {
+    align-items: center;
+}
+
+main img,
+#chalet p,
+#chalet {
+    margin-left: auto;
+}
+
+header h1 .first-word {
+    font-kerning: auto;
+}
+
+#chalet,
+main img {
+    margin-bottom: 0;
+}
+
+#chalet p {
+    font-size: .166666667in;
+}
+
+#chalet p {
+    line-height: 1.5;
+}
+
+[class~=text-container] p,
+header h1 [class~=second-word] {
+    font-style: normal;
+}
+
+[class~=text-container] p,
+header h1 [class~=second-word] {
+    font-variant: normal;
+}
+
+header h1 .first-word {
+    font-family: var(--font-stack);
+}
+
+main img {
+    width: 600px;
+}
+
+main img {
+    height: auto;
+}
+
+header h1 [class~=second-word] {
+    color: var(--color-accent-two);
+}
+
+header nav li:hover {
+    text-decoration: underline;
+}
+
+main img,
+#chalet p,
+#chalet {
+    margin-right: auto;
+}
+
+#chalet p {
+    color: var(--color-text);
+}
+
+#chalet button:hover {
+    background: var(--color-accent-one);
+}
+
+:root {
+    --color-accent-two: #010d27;
+}
+
+#chalet p {
+    width: 21.875pc;
+}
+
+#chalet p,
+header nav ul,
+#chalet img {
+    justify-content: center;
+}
+
+header {
+    justify-content: flex-start;
+}
+
+header {
+    position: relative;
+}
+
+main img,
+#chalet {
+    margin-top: 0;
+}
+
+#chalet p {
+    margin-bottom: .625pc;
+}
+
+header h1 [class~=second-word] {
+    text-shadow: 1.5pt 1.5pt 4px var(--color-accent-two);
+}
+
+main img {
+    display: block;
+}
+
+main img,
+#chalet img,
+[class~=radio-group],
+#swiss-sunset {
+    border-left-width: .041666667in;
+}
+
+header h1 [class~=second-word] {
+    font-weight: 700;
+}
+
+header h1 [class~=second-word],
+[class~=text-container] p {
+    font-stretch: normal;
+}
+
+#chalet img,
+main img {
+    border-bottom-width: .041666667in;
+}
+
+main img,
+#chalet img {
+    border-right-width: .041666667in;
+}
+
+#chalet p {
+    margin-top: .625pc;
+}
+
+[class~=text-container] p {
+    font-weight: 400;
+}
+
+main h2,
+main p,
+#chalet p,
+header nav ul {
+    padding-left: 0;
+}
+
+main img,
+#chalet img {
+    border-top-width: .041666667in;
+}
+
+main img,
+#chalet img {
+    border-left-style: solid;
+}
+
+:root {
+    --color-accent-three: #ffe6cc;
+}
+
+#chalet p {
+    padding-bottom: 7.5pt;
+}
+
+#chalet img,
+main img {
+    border-bottom-style: solid;
+}
+
+header h1 [class~=second-word] {
+    font-size: 3rem;
+}
+
+main img,
+#chalet img {
+    border-right-style: solid;
+}
+
+header {
+    background-image: url("images/swiss-valley.jpg");
+}
+
+:root {
+    --color-text: #edc8f4;
+}
+
+:root {
+    --color-gradient: linear-gradient(0deg, #ffb870 0%, rgba(255, 184, 112, .77) 49.48%, rgba(255, 184, 112, 0) 100%);
+}
+
+#chalet p,
+main h2 {
+    padding-right: 0;
+}
+
+main img,
+#chalet img {
+    border-top-style: solid;
+}
+
+:root {
+    --font-stack: "Asul", "Helvetica", "sans-serif";
+}
+
+[class~=text-container] p {
+    font-size: .25in;
+}
+
+#chalet p {
+    padding-top: .104166667in;
+}
+
+#chalet img,
+main img {
+    border-left-color: var(--color-background);
+}
+
+#chalet img {
+    width: 100%;
+}
+
+main img {
+    border-bottom-color: var(--color-background);
+}
+
+main img {
+    border-right-color: var(--color-background);
+}
+
+footer li img:hover {
+    transform: scale(1.1);
+}
+
+main img {
+    border-top-color: var(--color-background);
+}
+
+main img {
+    border-image: none;
+}
+
+header h1 [class~=second-word],
+[class~=text-container] p {
+    line-height: normal;
+}
+
+main img {
+    border-radius: .104166667in;
+}
+
+#chalet img {
+    height: auto;
+}
+
+main img {
+    padding-bottom: 0pc;
+}
+
+main img {
+    align-items: center;
+}
+
+main h2 {
+    font-size: 24pt;
+}
+
+main h2 {
+    line-height: 1.2;
+}
+
+main p,
+main h2 {
+    color: var(--color-text);
+}
+
+main h2 {
+    text-align: center;
+}
+
+header nav ul,
+main h2 {
+    padding-bottom: 0;
+}
+
+header nav ul,
+main h2 {
+    padding-top: 0;
+}
+
+[class~=radio-group] {
+    border-bottom-width: 3pt;
+}
+
+form label[for="email-radio"],
+main p {
+    font-size: 15pt;
+}
+
+header h1 [class~=second-word] {
+    font-size-adjust: none;
+}
+
+header h1 [class~=second-word] {
+    font-kerning: auto;
+}
+
+header {
+    background-size: cover;
+}
+
+#chalet {
+    padding-left: .625pc;
+}
+
+[class~=radio-group] {
+    border-right-width: 3pt;
+}
+
+#chalet {
+    padding-bottom: .625pc;
+}
+
+header h1 [class~=second-word] {
+    font-family: var(--font-stack);
+}
+
+#chalet {
+    padding-right: .625pc;
+}
+
+nav a:focus,
+nav a:hover {
+    color: var(--color-secondary);
+}
+
+form label[for="email-radio"],
+main p {
+    line-height: 1.5;
+}
+
+header {
+    background-position: center;
+}
+
+form input[type="radio"] {
+    width: .3125in;
+}
+
+main p {
+    width: 42.5pc;
+}
+
+main p {
+    margin-left: auto;
+}
+
+main p {
+    margin-bottom: 0;
+}
+
+#chalet {
+    padding-top: .625pc;
+}
+
+main p,
+header nav ul {
+    padding-right: 0;
+}
+
+form input[type="radio"] {
+    height: 20px;
+}
+
+#chalet img {
+    border-bottom-color: var(--color-background);
+}
+
+#chalet button,
+form input[type="radio"] {
+    flex-shrink: 0;
+}
+
+main p {
+    margin-right: auto;
+}
+
+main p {
+    margin-top: 0;
+}
+
+#chalet img {
+    border-right-color: var(--color-background);
+}
+
+#chalet img {
+    border-top-color: var(--color-background);
+}
+
+#chalet img {
+    border-image: none;
+}
+
+form input[type="radio"] {
+    padding-bottom: 7.5pt;
+}
+
+#chalet img {
+    border-radius: .625pc;
+}
+
+header {
+    background-repeat: no-repeat;
+}
+
+#chalet img {
+    padding-bottom: 0px;
+}
+
+#chalet button,
+[class~=radio-group] {
+    border-top-width: 3pt;
+}
+
+form label[for="email-radio"],
+header {
+    width: 100%;
+}
+
+#chalet button {
+    width: 1.041666667in;
+}
+
+#chalet button {
+    height: 33.75pt;
+}
+
+main p {
+    display: block;
+}
+
+#chalet button,
+[class~=radio-group] {
+    border-left-style: solid;
+}
+
+#chalet button {
+    border-radius: 5px;
+}
+
+footer ul,
+form label[for="email-radio"],
+main p {
+    padding-bottom: 0;
+}
+
+form label[for="email-radio"] {
+    color: var(--color-text);
+}
+
+header {
+    height: 25pc;
+}
+
+[class~=radio-group],
+#chalet button {
+    border-bottom-style: solid;
+}
+
+a,
+footer li {
+    text-decoration: none;
+}
+
+#chalet button {
+    border-left-width: .25pc;
+}
+
+#chalet button,
+#swiss-sunset {
+    border-bottom-width: .25pc;
+}
+
+main {
+    padding-left: 1.25pc;
+}
+
+header nav ul,
+footer ul {
+    margin-left: 0;
+}
+
+#chalet button,
+#swiss-sunset {
+    border-right-width: .25pc;
+}
+
+form label[for="email-radio"] {
+    margin-left: .625pc;
+}
+
+form label[for="email-radio"],
+footer p,
+footer ul,
+main p {
+    padding-top: 0;
+}
+
+main {
+    padding-bottom: 1.25pc;
+}
+
+footer ul {
+    display: flex;
+}
+
+footer ul {
+    gap: .208333333in;
+}
+
+#chalet button,
+[class~=radio-group] {
+    border-right-style: solid;
+}
+
+form label[for="email-radio"] {
+    margin-bottom: .625pc;
+}
+
+form label[for="email-radio"] {
+    margin-right: .625pc;
+}
+
+footer ul {
+    white-space: nowrap;
+}
+
+main {
+    padding-right: 1.25pc;
+}
+
+form label[for="email-radio"] {
+    margin-top: .625pc;
+}
+
+footer ul {
+    justify-content: center;
+}
+
+footer ul,
+form label[for="email-radio"] {
+    padding-left: 0;
+}
+
+footer ul,
+form label[for="email-radio"] {
+    padding-right: 0;
+}
+
+[class~=text-container] p {
+    font-size-adjust: none;
+}
+
+[class~=radio-group],
+#chalet button {
+    border-top-style: solid;
+}
+
+header nav ul,
+footer p,
+main,
+footer ul {
+    margin-bottom: 0;
+}
+
+#chalet button {
+    border-left-color: var(--Secondary, #ffb870);
+}
+
+#chalet button {
+    border-bottom-color: var(--Secondary, #ffb870);
+}
+
+footer ul {
+    margin-right: 0;
+}
+
+#chalet button {
+    border-right-color: var(--Secondary, #ffb870);
+}
+
+#chalet button {
+    border-top-color: var(--Secondary, #ffb870);
+}
+
+main {
+    padding-top: 1.25pc;
+}
+
+footer ul,
+main {
+    margin-top: 0;
+}
+
+#chalet button {
+    border-image: none;
+}
+
+footer li {
+    list-style: none;
+}
+
+#swiss-sunset {
+    border-top-width: .25pc;
+}
+
+footer p,
+#chalet button {
+    font-size: 16px;
+}
+
+#swiss-sunset {
+    border-left-style: solid;
+}
+
+#chalet button,
+footer p,
+main,
+#accommodations img {
+    margin-left: auto;
+}
+
+#swiss-sunset {
+    border-bottom-style: solid;
+}
+
+#chalet button {
+    background: var(--color-accent-three);
+}
+
+form label[for="phone-radio"] {
+    font-size: .208333333in;
+}
+
+footer p,
+form label[for="phone-radio"] {
+    line-height: 1.5;
+}
+
+#chalet button {
+    box-shadow: 0px 3pt .041666667in 0pt rgba(0, 0, 0, .25);
+}
+
+#accommodations img,
+main,
+#chalet button,
+footer p {
+    margin-right: auto;
+}
+
+#chalet button {
+    margin-bottom: 15pt;
+}
+
+[class~=radio-group],
+#swiss-sunset {
+    border-left-color: var(--color-accent-one);
+}
+
+#chalet button {
+    margin-top: 15pt;
+}
+
+#swiss-sunset {
+    border-right-style: solid;
+}
+
+#contact p {
+    width: 6.25in;
+}
+
+#accommodations img {
+    width: auto;
+}
+
+form label[for="phone-radio"] {
+    color: var(--color-text);
+}
+
+footer p {
+    color: var(--color-accent-two);
+}
+
+[class~=radio-group],
+#swiss-sunset {
+    border-bottom-color: var(--color-accent-one);
+}
+
+footer p {
+    width: 18.75pc;
+}
+
+form label[for="phone-radio"],
+form label {
+    width: 100%;
+}
+
+[class~=radio-group] {
+    border-right-color: var(--color-accent-one);
+}
+
+[class~=radio-group] {
+    border-top-color: var(--color-accent-one);
+}
+
+form label[for="phone-radio"] {
+    margin-left: .625pc;
+}
+
+#accommodations img {
+    height: auto;
+}
+
+form label[for="phone-radio"] {
+    margin-bottom: .625pc;
+}
+
+footer {
+    display: flex;
+}
+
+#accommodations img {
+    margin-bottom: 0;
+}
+
+footer p,
+#accommodations img,
+header nav ul {
+    margin-top: 0;
+}
+
+form label,
+footer p,
+form label[for="phone-radio"] {
+    padding-left: 0;
+}
+
+footer {
+    flex-direction: column;
+}
+
+#accommodations img,
+#swiss-sunset {
+    border-top-style: solid;
+}
+
+footer p {
+    padding-bottom: 10px;
+}
+
+form label,
+footer p,
+form label[for="phone-radio"] {
+    padding-right: 0;
+}
+
+form label[for="phone-radio"] {
+    margin-right: .625pc;
+}
+
+#accommodations img {
+    vertical-align: middle;
+}
+
+#accommodations img,
+form input[type="submit"] {
+    border-left-width: .041666667in;
+}
+
+form input[type="submit"],
+#accommodations img {
+    border-bottom-width: .041666667in;
+}
+
+[class~=radio-group] {
+    border-image: none;
+}
+
+footer p {
+    text-align: center;
+}
+
+form label[for="phone-radio"] {
+    margin-top: .625pc;
+}
+
+form label {
+    font-size: 1.5pc;
+}
+
+header nav ul {
+    margin-right: 0;
+}
+
+form input[type="submit"],
+#accommodations img {
+    border-right-width: .041666667in;
+}
+
+#accommodations img {
+    border-top-width: .041666667in;
+}
+
+form input[type="submit"],
+#accommodations img {
+    border-left-style: solid;
+}
+
+form input[type="submit"],
+#accommodations img {
+    border-bottom-style: solid;
+}
+
+form label,
+form label[for="phone-radio"] {
+    padding-bottom: 0;
+}
+
+form label {
+    line-height: 1.5;
+}
+
+#accommodations img {
+    border-right-style: solid;
+}
+
+form label {
+    color: var(--color-text);
+}
+
+form label {
+    margin-top: 10px;
+}
+
+#accommodations img {
+    border-left-color: var(--color-background);
+}
+
+form input[type="submit"],
+[class~=radio-group] {
+    border-radius: 3.75pt;
+}
+
+header nav li {
+    list-style: none;
+}
+
+form label,
+form label[for="phone-radio"] {
+    padding-top: 0;
+}
+
+footer li img {
+    width: .208333333in;
+}
+
+#accommodations img {
+    border-bottom-color: var(--color-background);
+}
+
+footer {
+    flex-wrap: nowrap;
+}
+
+form input[type="submit"],
+#accommodations button {
+    width: 6.25pc;
+}
+
+#swiss-sunset {
+    border-right-color: var(--color-accent-one);
+}
+
+#accommodations img {
+    border-right-color: var(--color-background);
+}
+
+#accommodations img {
+    border-top-color: var(--color-background);
+}
+
+form input[type="submit"] {
+    height: .416666667in;
+}
+
+form input,
+form input[type="submit"] {
+    flex-shrink: 0;
+}
+
+[class~=radio-group] {
+    outline: none;
+}
+
+#accommodations img {
+    border-image: none;
+}
+
+#swiss-sunset {
+    border-top-color: var(--color-accent-one);
+}
+
+[class~=radio-group] {
+    box-sizing: border-box;
+}
+
+footer {
+    align-items: center;
+}
+
+#accommodations img,
+#swiss-sunset {
+    border-radius: 7.5pt;
+}
+
+#swiss-sunset {
+    border-image: none;
+}
+
+#accommodations img {
+    padding-left: 0in;
+}
+
+footer,
+form input {
+    width: 100%;
+}
+
+#accommodations img {
+    padding-bottom: 0in;
+}
+
+form input {
+    height: 20px;
+}
+
+[class~=text-container] p {
+    font-kerning: auto;
+}
+
+form input[type="submit"] {
+    border-top-width: 3pt;
+}
+
+form input,
+[class~=radio-group] {
+    box-shadow: 0pc 3pt .041666667in 0pt rgba(0, 0, 0, .25);
+}
+
+form input {
+    background: var(--color-accent-three);
+}
+
+[class~=text-container] {
+    display: flex;
+}
+
+form input,
+#accommodations button {
+    border-radius: 3.75pt;
+}
+
+form,
+#accommodations {
+    display: grid;
+}
+
+footer {
+    justify-content: space-evenly;
+}
+
+#accommodations img {
+    padding-right: 0in;
+}
+
+footer {
+    position: relative;
+}
+
+#accommodations {
+    grid-template-columns: auto auto;
+}
+
+[class~=text-container] {
+    flex-direction: column;
+}
+
+form input {
+    padding-left: 0;
+}
+
+form,
+#accommodations {
+    gap: 20px;
+}
+
+#accommodations img {
+    padding-top: 0in;
+}
+
+footer {
+    background: var(--color-gradient);
+}
+
+footer li img {
+    height: auto;
+}
+
+form input {
+    padding-bottom: .3125pc;
+}
+
+footer {
+    height: 13.75pc;
+}
+
+footer {
+    padding-left: .625pc;
+}
+
+#accommodations button {
+    height: 33.75pt;
+}
+
+form input[type="submit"],
+#accommodations button {
+    border-right-style: solid;
+}
+
+form input {
+    padding-right: .3125pc;
+}
+
+footer {
+    padding-bottom: .625pc;
+}
+
+form input[type="submit"] {
+    border-top-style: solid;
+}
+
+form input {
+    padding-top: .3125pc;
+}
+
+form input[type="submit"] {
+    border-left-color: var(--Secondary, #ffb870);
+}
+
+footer {
+    padding-right: .625pc;
+}
+
+footer {
+    padding-top: .625pc;
+}
+
+#accommodations {
+    width: 547.5pt;
+}
+
+form input {
+    margin-left: 0pt;
+}
+
+#accommodations {
+    justify-content: space-around;
+}
+
+form input[type="submit"] {
+    border-bottom-color: var(--Secondary, #ffb870);
+}
+
+form input {
+    margin-bottom: 0pt;
+}
+
+form input {
+    margin-right: 0pt;
+}
+
+#accommodations button {
+    flex-shrink: 0;
+}
+
+form input {
+    margin-top: 0pt;
+}
+
+#accommodations,
+form input[type="submit"],
+[class~=text-container],
+footer li img {
+    margin-left: auto;
+}
+
+[class~=text-container] {
+    width: 42.5pc;
+}
+
+#accommodations button,
+form input[type="submit"] {
+    border-right-color: var(--Secondary, #ffb870);
+}
+
+#accommodations button {
+    border-left-width: .041666667in;
+}
+
+form {
+    grid-template-columns: repeat(2, 2fr);
+}
+
+#accommodations button,
+form input[type="submit"] {
+    border-top-color: var(--Secondary, #ffb870);
+}
+
+#accommodations button {
+    border-bottom-width: .041666667in;
+}
+
+form input[type="submit"] {
+    border-image: none;
+}
+
+#accommodations button {
+    border-right-width: .041666667in;
+}
+
+form h3,
+form input[type="submit"] {
+    font-size: 24px;
+}
+
+form h3 {
+    line-height: 1.5;
+}
+
+form {
+    grid-template-rows: repeat(3, auto);
+}
+
+form h3 {
+    color: var(--color-text);
+}
+
+form h3 {
+    text-align: left;
+}
+
+#accommodations button {
+    border-top-width: .041666667in;
+}
+
+#accommodations button {
+    border-left-style: solid;
+}
+
+#accommodations button {
+    border-bottom-style: solid;
+}
+
+form textarea,
+form input[type="submit"],
+#accommodations button {
+    background: var(--color-accent-three);
+}
+
+#accommodations button,
+form textarea,
+form input[type="submit"] {
+    box-shadow: 0px 4px .041666667in 0pt rgba(0, 0, 0, .25);
+}
+
+form input[type="submit"] {
+    color: var(--color-accent-two);
+}
+
+#accommodations {
+    align-items: center;
+}
+
+form h3 {
+    justify-content: left;
+}
+
+form {
+    align-items: start;
+}
+
+form input[type="submit"] {
+    text-align: center;
+}
+
+form h3,
+[class~=text-container],
+#accommodations button,
+#accommodations {
+    margin-bottom: 0;
+}
+
+form {
+    justify-content: center;
+}
+
+form h3 {
+    margin-left: 0;
+}
+
+form {
+    justify-items: center;
+}
+
+#accommodations button {
+    border-top-style: solid;
+}
+
+form h3 {
+    margin-right: 0;
+}
+
+#accommodations button {
+    border-left-color: var(--Secondary, #ffb870);
+}
+
+[class~=text-container] p {
+    font-family: var(--font-stack);
+}
+
+[class~=text-container],
+form h3,
+#accommodations button,
+#accommodations {
+    margin-top: 0;
+}
+
+form textarea,
+form h3 {
+    padding-bottom: 10px;
+}
+
+form {
+    position: relative;
+}
+
+form {
+    width: 487.5pt;
+}
+
+form h3 {
+    padding-top: 7.5pt;
+}
+
+form textarea {
+    width: 300px;
+}
+
+form textarea {
+    height: 60pt;
+}
+
+#accommodations button {
+    border-bottom-color: var(--Secondary, #ffb870);
+}
+
+form,
+[class~=text-container],
+#accommodations,
+form input[type="submit"],
+#accommodations button,
+footer li img {
+    margin-right: auto;
+}
+
+form textarea {
+    flex-shrink: 0;
+}
+
+form textarea {
+    border-radius: 3.75pt;
+}
+
+form input[type="submit"],
+footer li img {
+    margin-bottom: 7.5pt;
+}
+
+#accommodations button {
+    border-image: none;
+}
+
+form,
+#accommodations button {
+    margin-left: auto;
+}
+
+form {
+    height: 17.75pc;
+}
+
+#accommodations,
+form {
+    padding-left: .625pc;
+}
+
+form {
+    padding-bottom: .625pc;
+}
+
+form,
+#accommodations {
+    padding-right: .625pc;
+}
+
+#accommodations,
+form {
+    padding-top: .625pc;
+}
+
+form input[type="submit"],
+footer li img {
+    margin-top: 7.5pt;
+}
+
+header nav li a {
+    color: var(--color-accent-two);
+}
+
+form {
+    grid-row-gap: 10px;
+}
+
+.button-container {
+    display: grid;
+}
+
+#accommodations button {
+    font-size: .166666667in;
+}
+
+.button-container {
+    grid-template-columns: auto auto;
+}
+
+.button-container {
+    justify-content: start;
+}
+
+#accommodations button {
+    text-align: center;
+}
+
+#accommodations button,
+form input[type="submit"] {
+    padding-left: 0;
+}
+
+#accommodations button,
+form input[type="submit"] {
+    padding-bottom: 0;
+}
+
+#accommodations button,
+form input[type="submit"] {
+    padding-right: 0;
+}
+
+#accommodations button,
+form input[type="submit"] {
+    padding-top: 0;
+}
+
+.button-container {
+    gap: 15pt;
+}
+
+form {
+    margin-bottom: 0;
+}
+
+form {
+    margin-top: 0;
+}
+
+#accommodations {
+    padding-bottom: 0pt;
+}
+
+.button-container {
+    padding-left: 1.25pc;
+}
+
+#accommodations button:hover,
+form input[type="submit"]:hover {
+    background: var(--color-accent-one);
+}
+
+.button-container {
+    padding-bottom: 1.25pc;
+}
+
+.button-container {
+    padding-right: 1.25pc;
+}
+
+.button-container {
+    padding-top: 1.25pc;
+}
+
+header nav li a {
+    text-decoration: none;
+}
+
+footer li img:focus {
+    transform: scale(1.1);
+}
